@@ -1,2 +1,3 @@
 Hello, my name is " Nam and I am working on hw1
 Hello, my name is Alex Eng and Nam and we are working on hw4 together
+Hello, our names are Huy Pham and Alex, and we are working on HW4 together. We started working together on (MM/DD/YYYY).
